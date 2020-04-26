@@ -1,0 +1,5 @@
+{
+    "/mark-sheet/get/inquire-mark-sheet-detail.js": "/comment-papers/:id",
+    "/mark-sheet/get/inquire-mark-sheet-template.js": "/comment-papers/comment-template/:id",
+    "/mark-sheet/post/inquire-mark-sheet.js": "/comment-papers"
+}
